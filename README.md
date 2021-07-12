@@ -49,7 +49,7 @@ $ npm install / npm update
 # Execute a aplicação em modo de desenvolvimento
 $ npm start
 
-# A aplicação será aberta na porta:8000 - acesse http://localhost:3002
+# A aplicação será aberta na porta:3002 - acesse http://localhost:3002
 
 ```
 
